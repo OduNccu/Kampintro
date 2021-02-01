@@ -1,0 +1,13 @@
+C:\Users\Hamza\source\repos\Kampintro\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.exe
+C:\Users\Hamza\source\repos\Kampintro\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.deps.json
+C:\Users\Hamza\source\repos\Kampintro\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.json
+C:\Users\Hamza\source\repos\Kampintro\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.dev.json
+C:\Users\Hamza\source\repos\Kampintro\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.dll
+C:\Users\Hamza\source\repos\Kampintro\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.pdb
+C:\Users\Hamza\source\repos\Kampintro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfoInputs.cache
+C:\Users\Hamza\source\repos\Kampintro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfo.cs
+C:\Users\Hamza\source\repos\Kampintro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\Kampintro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.dll
+C:\Users\Hamza\source\repos\Kampintro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.pdb
+C:\Users\Hamza\source\repos\Kampintro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.genruntimeconfig.cache
+C:\Users\Hamza\source\repos\Kampintro\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.csprojAssemblyReference.cache
